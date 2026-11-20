@@ -1,0 +1,49 @@
+{
+  "watchlist": [
+    {
+      "anime": {
+        "mal_id": 5114,
+        "title": "Fullmetal Alchemist: Brotherhood",
+        "title_english": "Fullmetal Alchemist: Brotherhood",
+        "genres": [
+          {
+            "name": "Action"
+          },
+          {
+            "name": "Adventure"
+          },
+          {
+            "name": "Drama"
+          },
+          {
+            "name": "Fantasy"
+          }
+        ],
+        "synopsis": "Two brothers search for the Philosopher’s Stone after a failed alchemical ritual.",
+        "score": 0,
+        "episodes": null,
+        "type": "TV",
+        "status": "Catalogue pick",
+        "posterUrl": "https://animeupdates.party/images/posters/fma.jpg",
+        "images": {
+          "jpg": {
+            "image_url": "",
+            "large_image_url": ""
+          }
+        },
+        "url": "https://myanimelist.net/anime/5114"
+      },
+      "status": "Plan to Watch",
+      "rating": 0,
+      "updatedAt": "2026-11-20T13:29:25.009Z"
+    }
+  ],
+  "reviews": [],
+  "preferences": {
+    "genres": [
+      "Action",
+      "Adventure",
+      "Fantasy"
+    ]
+  }
+}
